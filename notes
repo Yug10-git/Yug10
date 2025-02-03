@@ -1,0 +1,5 @@
+clone - git clone address
+git branch name
+switch to it for working on it : git switch branch_name
+make a file in this branch : 
+
